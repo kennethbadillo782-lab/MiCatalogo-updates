@@ -1,0 +1,23 @@
+{
+    "name":  "MiCatalogo privado",
+    "identifier":  "com.micatalogo.source",
+    "apps":  [
+                 {
+                     "name":  "Mi Catálogo",
+                     "bundleIdentifier":  "com.micatalogo.moda",
+                     "developerName":  "Personal",
+                     "localizedDescription":  "Catálogo personal de moda.",
+                     "iconURL":  "",
+                     "versions":  [
+                                      {
+                                          "version":  "1.0.2",
+                                          "buildVersion":  "2",
+                                          "date":  "2026-10-29",
+                                          "downloadURL":  "https://github.com/kennethbadillo782-lab/MiCatalogo-updates/releases/download/v1.0.2/MiCatalogo.ipa",
+                                          "size":  3222007,
+                                          "minOSVersion":  "17.0"
+                                      }
+                                  ]
+                 }
+             ]
+}
