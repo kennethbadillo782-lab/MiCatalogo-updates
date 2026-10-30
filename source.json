@@ -10,6 +10,15 @@
    "iconURL": "https://raw.githubusercontent.com/kennethbadillo782-lab/MiCatalogo-updates/main/icon.png",
    "versions": [
     {
+     "version": "1.0.16",
+     "buildVersion": "16",
+     "date": "2026-10-30",
+     "downloadURL": "https://github.com/kennethbadillo782-lab/MiCatalogo-updates/releases/download/v1.0.16/MiCatalogo.ipa",
+     "size": 4253545,
+     "minOSVersion": "17.0",
+     "localizedDescription": "Nuevo diseño: desenfoque detrás de la hora, barra inferior oscura con botón + morado, marcas cuadradas con logo blanco y accesos más verticales."
+    },
+    {
      "version": "1.0.15",
      "buildVersion": "15",
      "date": "2026-10-30",
