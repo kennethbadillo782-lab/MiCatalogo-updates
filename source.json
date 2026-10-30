@@ -1,55 +1,63 @@
 {
-    "name":  "Wearlist",
-    "identifier":  "com.micatalogo.source",
-    "apps":  [
-                 {
-                     "name":  "Wearlist",
-                     "bundleIdentifier":  "com.micatalogo.moda",
-                     "developerName":  "Personal",
-                     "localizedDescription":  "Tu lista personal de moda.",
-                     "iconURL":  "",
-                     "versions":  [
-                                      {
-                                          "version":  "1.0.6",
-                                          "buildVersion":  "6",
-                                          "date":  "2026-10-30",
-                                          "downloadURL":  "https://github.com/kennethbadillo782-lab/MiCatalogo-updates/releases/download/v1.0.6/MiCatalogo.ipa",
-                                          "size":  4094203,
-                                          "minOSVersion":  "17.0"
-                                      },
-                                      {
-                                          "version":  "1.0.5",
-                                          "buildVersion":  "5",
-                                          "date":  "2026-10-30",
-                                          "downloadURL":  "https://github.com/kennethbadillo782-lab/MiCatalogo-updates/releases/download/v1.0.5/MiCatalogo.ipa",
-                                          "size":  4090698,
-                                          "minOSVersion":  "17.0"
-                                      },
-                                      {
-                                          "version":  "1.0.4",
-                                          "buildVersion":  "4",
-                                          "date":  "2026-10-30",
-                                          "downloadURL":  "https://github.com/kennethbadillo782-lab/MiCatalogo-updates/releases/download/v1.0.4/MiCatalogo.ipa",
-                                          "size":  3242831,
-                                          "minOSVersion":  "17.0"
-                                      },
-                                      {
-                                          "version":  "1.0.3",
-                                          "buildVersion":  "3",
-                                          "date":  "2026-10-30",
-                                          "downloadURL":  "https://github.com/kennethbadillo782-lab/MiCatalogo-updates/releases/download/v1.0.3/MiCatalogo.ipa",
-                                          "size":  3222011,
-                                          "minOSVersion":  "17.0"
-                                      },
-                                      {
-                                          "version":  "1.0.2",
-                                          "buildVersion":  "2",
-                                          "date":  "2026-10-29",
-                                          "downloadURL":  "https://github.com/kennethbadillo782-lab/MiCatalogo-updates/releases/download/v1.0.2/MiCatalogo.ipa",
-                                          "size":  3222007,
-                                          "minOSVersion":  "17.0"
-                                      }
-                                  ]
-                 }
-             ]
+ "name": "Wearlist",
+ "identifier": "com.micatalogo.source",
+ "apps": [
+  {
+   "name": "Wearlist",
+   "bundleIdentifier": "com.micatalogo.moda",
+   "developerName": "Personal",
+   "localizedDescription": "Tu lista personal de moda.",
+   "iconURL": "",
+   "versions": [
+    {
+     "version": "1.0.7",
+     "buildVersion": "7",
+     "date": "2026-10-30",
+     "downloadURL": "https://github.com/kennethbadillo782-lab/MiCatalogo-updates/releases/download/v1.0.7/MiCatalogo.ipa",
+     "size": 4094204,
+     "minOSVersion": "17.0"
+    },
+    {
+     "version": "1.0.6",
+     "buildVersion": "6",
+     "date": "2026-10-30",
+     "downloadURL": "https://github.com/kennethbadillo782-lab/MiCatalogo-updates/releases/download/v1.0.6/MiCatalogo.ipa",
+     "size": 4094203,
+     "minOSVersion": "17.0"
+    },
+    {
+     "version": "1.0.5",
+     "buildVersion": "5",
+     "date": "2026-10-30",
+     "downloadURL": "https://github.com/kennethbadillo782-lab/MiCatalogo-updates/releases/download/v1.0.5/MiCatalogo.ipa",
+     "size": 4090698,
+     "minOSVersion": "17.0"
+    },
+    {
+     "version": "1.0.4",
+     "buildVersion": "4",
+     "date": "2026-10-30",
+     "downloadURL": "https://github.com/kennethbadillo782-lab/MiCatalogo-updates/releases/download/v1.0.4/MiCatalogo.ipa",
+     "size": 3242831,
+     "minOSVersion": "17.0"
+    },
+    {
+     "version": "1.0.3",
+     "buildVersion": "3",
+     "date": "2026-10-30",
+     "downloadURL": "https://github.com/kennethbadillo782-lab/MiCatalogo-updates/releases/download/v1.0.3/MiCatalogo.ipa",
+     "size": 3222011,
+     "minOSVersion": "17.0"
+    },
+    {
+     "version": "1.0.2",
+     "buildVersion": "2",
+     "date": "2026-10-29",
+     "downloadURL": "https://github.com/kennethbadillo782-lab/MiCatalogo-updates/releases/download/v1.0.2/MiCatalogo.ipa",
+     "size": 3222007,
+     "minOSVersion": "17.0"
+    }
+   ]
+  }
+ ]
 }
