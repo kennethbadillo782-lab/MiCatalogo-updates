@@ -10,6 +10,15 @@
    "iconURL": "https://raw.githubusercontent.com/kennethbadillo782-lab/MiCatalogo-updates/main/icon.png",
    "versions": [
     {
+     "version": "1.0.23",
+     "buildVersion": "23",
+     "date": "2026-10-30",
+     "downloadURL": "https://github.com/kennethbadillo782-lab/MiCatalogo-updates/releases/download/v1.0.23/MiCatalogo.ipa",
+     "size": 4225576,
+     "minOSVersion": "17.0",
+     "localizedDescription": "Marcas como en el diseño: 5 tarjetas a todo el ancho y «Ver todas» con la lista completa. Desenfoque de arriba suave."
+    },
+    {
      "version": "1.0.19",
      "buildVersion": "19",
      "date": "2026-10-30",
