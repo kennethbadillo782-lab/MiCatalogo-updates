@@ -10,6 +10,15 @@
    "iconURL": "https://raw.githubusercontent.com/kennethbadillo782-lab/MiCatalogo-updates/main/icon.png",
    "versions": [
     {
+     "version": "1.0.11",
+     "buildVersion": "11",
+     "date": "2026-10-30",
+     "downloadURL": "https://github.com/kennethbadillo782-lab/MiCatalogo-updates/releases/download/v1.0.11/MiCatalogo.ipa",
+     "size": 4210948,
+     "minOSVersion": "17.0",
+     "localizedDescription": "Marcas: todas en la misma tarjeta clara, con logo de Jordan, Hermès, Pandora y Express. Incluye las fotos automáticas de la 1.0.9."
+    },
+    {
      "version": "1.0.9",
      "buildVersion": "9",
      "date": "2026-10-30",
