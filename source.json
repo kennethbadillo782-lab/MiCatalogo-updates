@@ -10,6 +10,15 @@
    "iconURL": "https://raw.githubusercontent.com/kennethbadillo782-lab/MiCatalogo-updates/main/icon.png",
    "versions": [
     {
+     "version": "1.0.9",
+     "buildVersion": "9",
+     "date": "2026-10-30",
+     "downloadURL": "https://github.com/kennethbadillo782-lab/MiCatalogo-updates/releases/download/v1.0.9/MiCatalogo.ipa",
+     "size": 4199699,
+     "minOSVersion": "17.0",
+     "localizedDescription": "Fotos automáticas del anuncio para productos sin fotos: Weidian (eligiendo el modelo exacto), Yupoo, Taobao, 1688 y agentes. Si hay duda, te deja elegir el modelo con un toque."
+    },
+    {
      "version": "1.0.8",
      "buildVersion": "8",
      "date": "2026-10-30",
