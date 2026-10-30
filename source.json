@@ -10,6 +10,15 @@
    "iconURL": "https://raw.githubusercontent.com/kennethbadillo782-lab/MiCatalogo-updates/main/icon.png",
    "versions": [
     {
+     "version": "1.0.14",
+     "buildVersion": "14",
+     "date": "2026-10-30",
+     "downloadURL": "https://github.com/kennethbadillo782-lab/MiCatalogo-updates/releases/download/v1.0.14/MiCatalogo.ipa",
+     "size": 4237179,
+     "minOSVersion": "17.0",
+     "localizedDescription": "Arreglado: la app se trababa al navegar. Si ChatGPT indica el modelo exacto del anuncio, la foto correcta se pone sola. Logo de Old Navy."
+    },
+    {
      "version": "1.0.11",
      "buildVersion": "11",
      "date": "2026-10-30",
