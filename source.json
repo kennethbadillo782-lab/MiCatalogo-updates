@@ -1,14 +1,22 @@
 {
-    "name":  "MiCatalogo privado",
+    "name":  "Wearlist",
     "identifier":  "com.micatalogo.source",
     "apps":  [
                  {
-                     "name":  "Mi Catálogo",
+                     "name":  "Wearlist",
                      "bundleIdentifier":  "com.micatalogo.moda",
                      "developerName":  "Personal",
-                     "localizedDescription":  "Catálogo personal de moda.",
+                     "localizedDescription":  "Tu lista personal de moda.",
                      "iconURL":  "",
                      "versions":  [
+                                      {
+                                          "version":  "1.0.5",
+                                          "buildVersion":  "5",
+                                          "date":  "2026-10-30",
+                                          "downloadURL":  "https://github.com/kennethbadillo782-lab/MiCatalogo-updates/releases/download/v1.0.5/MiCatalogo.ipa",
+                                          "size":  4090698,
+                                          "minOSVersion":  "17.0"
+                                      },
                                       {
                                           "version":  "1.0.4",
                                           "buildVersion":  "4",
