@@ -10,6 +10,14 @@
                      "iconURL":  "",
                      "versions":  [
                                       {
+                                          "version":  "1.0.6",
+                                          "buildVersion":  "6",
+                                          "date":  "2026-10-30",
+                                          "downloadURL":  "https://github.com/kennethbadillo782-lab/MiCatalogo-updates/releases/download/v1.0.6/MiCatalogo.ipa",
+                                          "size":  4094203,
+                                          "minOSVersion":  "17.0"
+                                      },
+                                      {
                                           "version":  "1.0.5",
                                           "buildVersion":  "5",
                                           "date":  "2026-10-30",
