@@ -10,6 +10,15 @@
    "iconURL": "https://raw.githubusercontent.com/kennethbadillo782-lab/MiCatalogo-updates/main/icon.png",
    "versions": [
     {
+     "version": "1.0.15",
+     "buildVersion": "15",
+     "date": "2026-10-30",
+     "downloadURL": "https://github.com/kennethbadillo782-lab/MiCatalogo-updates/releases/download/v1.0.15/MiCatalogo.ipa",
+     "size": 4246546,
+     "minOSVersion": "17.0",
+     "localizedDescription": "Usa el modelo o variante que guarda ChatGPT (aunque venga en español y chino) para poner la foto correcta sola. Las fotos se descargan más rápido."
+    },
+    {
      "version": "1.0.14",
      "buildVersion": "14",
      "date": "2026-10-30",
