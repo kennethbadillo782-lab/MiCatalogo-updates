@@ -10,6 +10,15 @@
    "iconURL": "https://raw.githubusercontent.com/kennethbadillo782-lab/MiCatalogo-updates/main/icon.png",
    "versions": [
     {
+     "version": "1.0.26",
+     "buildVersion": "26",
+     "date": "2026-11-01",
+     "downloadURL": "https://github.com/kennethbadillo782-lab/MiCatalogo-updates/releases/download/v1.0.26/MiCatalogo.ipa",
+     "size": 4240357,
+     "minOSVersion": "17.0",
+     "localizedDescription": "Navegación mucho más rápida: entrar a categorías y productos ya no se traba mientras se sincroniza o se buscan fotos."
+    },
+    {
      "version": "1.0.25",
      "buildVersion": "25",
      "date": "2026-10-31",
